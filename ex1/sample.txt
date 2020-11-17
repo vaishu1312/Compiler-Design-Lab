@@ -1,0 +1,9 @@
+main() 
+{
+int var=10,b=20,c;
+float x=10.0,y=20,z;
+if(a>b)
+	printf(“a is greater”); 
+else
+	printf(“b is greater”); 
+}
